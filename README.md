@@ -1,2 +1,2 @@
-# Quya-
+# Qayu-
 Landing page
